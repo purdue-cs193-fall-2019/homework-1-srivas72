@@ -18,8 +18,10 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+# Favorite things about CS193
+- Learning practical skills
+- Programming tips
+- Taught by fellow undergraduate students
 
 **Bold** and _Italic_ and `Code` text
 
